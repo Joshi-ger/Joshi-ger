@@ -28,8 +28,12 @@
 
 ## libaries
 
-<img src="assets/flask-icon.png">
-<img src="assets/django-icon.png">
+<table>
+  <ul>
+    <img src="assets/flask-icon.png">
+    <img src="assets/django-icon.png">
+  </ul>
+</table>
 
 ## game engine
 
