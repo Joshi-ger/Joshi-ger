@@ -28,11 +28,10 @@
 
 ## libaries
 
-<table>
-  <td width="100"><img src="assets/flask-icon.png"></td>
-  <td width="20"></td>
-  <td width="100"><img src="assets/django-icon.png"></td>
-</table>
+<p align="left">
+  <img src="assets/flask-icon.png" width="100" hspace="15">
+  <img src="assets/django-icon.png" width="100" hspace="15">
+</p>
 
 ## game engine
 
