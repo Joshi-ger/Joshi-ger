@@ -31,6 +31,7 @@
 <table>
   <ul>
     <img src="assets/flask-icon.png">
+    <p></p>
     <img src="assets/django-icon.png">
   </ul>
 </table>
