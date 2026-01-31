@@ -1,4 +1,4 @@
-![ascii name art](assets/)
+![ascii name art](assets/ascii-art-image.png)
 
 
 ## ABOUT ME :D
