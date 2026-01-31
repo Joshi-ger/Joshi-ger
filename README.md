@@ -1,3 +1,6 @@
+![ascii name art](assets/)
+
+
 ## ABOUT ME :D
 
 <h3> GENERAL INFOS </h3>
