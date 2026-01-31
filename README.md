@@ -1,5 +1,6 @@
 ![ascii name art](assets/name_ascii.png)
-  
+
+##
 
 ## ABOUT ME :D
 
@@ -16,3 +17,20 @@
   -> switched to python cause c# got boring and python has many cool libaries :D (now) <br>
   -> learning godot (now)
 </p>
+
+## frontend
+
+<img src="assets/python-icon.png">
+
+## backend
+
+<img src="assets/python-icon.png">
+
+## libaries
+
+<img src="assets/flask-icon.png">
+<img src="assets/django-icon.png">
+
+## game engine
+
+<img src="assets/godot-image.png">
