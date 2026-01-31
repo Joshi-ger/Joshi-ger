@@ -1,16 +1,15 @@
-## Hi there 👋
+## ABOUT ME :D
 
-<!--
-**Joshi-ger/Joshi-ger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> GENERAL INFOS </h3>
+<p align="center">
+  My name is Josh and im from germany
+  I started coding when i was 10
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> PROGRAMMING PATH </h3>
+<p align="center">
+  -> started with html/css/js (2 years)
+  -> switched to c# to make games (2 years)
+  -> switched to python cause c# got boring and python has many cool libaries :D (now)
+  -> learning godot (now)
+</p>
