@@ -7,7 +7,7 @@
 <h3> GENERAL INFOS </h3>
 <p align="center">
   My name is Josh and im from germany <br>
-  I started coding when i was 10
+  I started coding when I was 10
 </p>
 
 <h3> PROGRAMMING PATH </h3>
