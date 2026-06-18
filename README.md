@@ -14,25 +14,23 @@
 <p align="center">
   -> started with html/css/js (2 years) <br>
   -> switched to c# to make games (2 years) <br>
-  -> switched to python cause c# got boring and python has many cool libaries :D (now) <br>
-  -> learning godot (now)
+  -> switched to python cause c# got boring and python has many cool libaries :D (1 year) <br>
+  -> switched to c++ (final switch i swear) to learn 3d graphics at it core with opengl & sdl3 (now) <br>
+  -> learning opengl & sdl3 (now)
 </p>
 
 ## frontend
 
-<img src="assets/python-icon.png">
+<img src="assets/c++-icon.png">
 
 ## backend
 
-<img src="assets/python-icon.png">
+<img src="assets/c++-icon.png">
+<img src="assets/python-icon.png>
 
 ## libaries
 
 <p align="left">
-  <img src="assets/flask-icon.png" width="100" hspace="15">
-  <img src="assets/django-icon.png" width="100" hspace="15">
+  <img src="assets/sdl3-icon.png" width="100" hspace="15">
+  <img src="assets/openGL-icon.png" width="100" hspace="15">
 </p>
-
-## game engine
-
-<img src="assets/godot-image.png">
