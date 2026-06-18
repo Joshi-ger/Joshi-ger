@@ -21,12 +21,12 @@
 
 ## frontend
 
-<img src="assets/cpp.png">
+<img src="assets/cpp.png" width="100" hspace="15">
 
 ## backend
 
-<img src="assets/cpp.png">
-<img src="assets/python-icon.png>
+<img src="assets/cpp.png" width="100" hspace="15">
+<img src="assets/python-icon.png" width="100" hspace="15">
 
 ## libaries
 
