@@ -21,11 +21,11 @@
 
 ## frontend
 
-<img src="assets/c++-icon.png">
+<img src="assets/cpp-icon.png">
 
 ## backend
 
-<img src="assets/c++-icon.png">
+<img src="assets/cpp-icon.png">
 <img src="assets/python-icon.png>
 
 ## libaries
