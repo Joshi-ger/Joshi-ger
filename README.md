@@ -21,16 +21,16 @@
 
 ## frontend
 
-<img src="assets/cpp-icon.png">
+<img src="assets/cpp.png">
 
 ## backend
 
-<img src="assets/cpp-icon.png">
+<img src="assets/cpp.png">
 <img src="assets/python-icon.png>
 
 ## libaries
 
 <p align="left">
-  <img src="assets/sdl3-icon.png" width="100" hspace="15">
-  <img src="assets/openGL-icon.png" width="100" hspace="15">
+  <img src="assets/sdl3.png" width="100" hspace="15">
+  <img src="assets/openGL.png" width="100" hspace="15">
 </p>
